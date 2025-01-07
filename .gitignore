@@ -1,0 +1,19 @@
+/.venv
+batch_1
+batch_2
+batch_3
+batch_4
+ClArTTS
+SARA
+archive (1).zip
+archive.zip
+dataset Souce.pdf
+README.md
+test.csv
+train.csv
+valid.csv
+whisper-large-v3
+output
+.ipynb_checkpoints
+__pycache__
+models
